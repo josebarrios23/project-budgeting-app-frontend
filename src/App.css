@@ -47,6 +47,7 @@ body {
 .transaction-list {
   list-style: none;
   padding: 0;
+  text-align: center;
 }
 
 .transaction-item {
