@@ -127,7 +127,7 @@ const TransactionForm = ({ setTransactions, setToggleForm, edit, setEdit }) => {
         </label>
         <button>Submit</button>
       </form>
-      <button onClick={handleCancel}>Cancel</button>
+      <button className="nav-button" onClick={handleCancel}>Cancel</button>
     </div>
   );
 };
